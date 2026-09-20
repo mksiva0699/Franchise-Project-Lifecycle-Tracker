@@ -1,6 +1,6 @@
 /**********************************************************************************
- * FRANCHISE PROJECT LIFECYCLE TRACKER — PMP® Aligned Automation System
- * ------------------------------------------------------------------------------
+ * Franchise-Setup-Operations-Tracker
+* ------------------------------------------------------------------------------
  * Features:
  *   1. Team_Master Management & Dropdown Allocation
  *   2. Manual Email Notification Trigger for Staff Allocation (with Checkbox)
