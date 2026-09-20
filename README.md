@@ -1,4 +1,4 @@
-# Franchise Project Lifecycle Tracker
+# Franchise-Setup-Operations-Tracker
 
 A comprehensive, cloud-based **Project Management & Lifecycle Automation System** built using **Google Apps Script** and **Google Sheets**. Designed strictly in accordance with **PMI PMBOK® Guide Standards**, this solution enables Project Managers (PMs) and Operations Heads to oversee multi-site franchise deployment, enforce strict governance, track Work Breakdown Structure (WBS) deliverables, and execute seamless project closures.
 
